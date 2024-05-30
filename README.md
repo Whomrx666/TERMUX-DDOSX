@@ -1,4 +1,4 @@
-# Http-flood
+# TERMUX-DDOSX
 ![TERMUX-DDOSX preview](TERMUX-DDOSX.jpg)
 
 ## introduction
