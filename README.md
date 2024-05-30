@@ -2,7 +2,7 @@
 ![TERMUX-DDOSX preview](TERMUX-DDOSX.jpg)
 
 ## introduction
-TERMUX-DDOS is a ddos ​​tool {Distributed Denial of Service} by using 5 tools that are provided in the tools and installed separately
+TERMUX-DDOSX is a ddos ​​tool {Distributed Denial of Service} by using 5 tools that are provided in the tools and installed separately
 
 ## Instalations
 ```
